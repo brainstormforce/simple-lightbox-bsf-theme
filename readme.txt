@@ -5,8 +5,6 @@ Requires at least: 3.0
 Tested up to: 4.9.0 
 Stable tag: 1.0
 
-Simple Lightbox: BSF Theme allows you to add custom theme for Simple LightBox WordPress Plugin.
-
 == Description ==
 
 Simple Lightbox: BSF Theme plugin allows you to add custom theme for Simple LightBox WordPress Plugin.

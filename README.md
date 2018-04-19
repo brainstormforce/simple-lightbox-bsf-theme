@@ -5,11 +5,9 @@
 **Tested up to:** 4.9.0  
 **Stable tag:** 1.0
 
-Simple Lightbox: BSF Theme allows you to add custom theme for Simple LightBox WordPress Plugin.
-
 ## Description ##
 
-BSF Theme allows you to add custom theme for Simple LightBox WordPress Plugin.
+Simple Lightbox: BSF Theme allows you to add custom theme for Simple LightBox WordPress Plugin.
 
 ## Installation ##
 
