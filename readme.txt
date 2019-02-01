@@ -1,5 +1,5 @@
 === Simple Lightbox: BSF Theme ===
-Contributors: brainstormforce, aniljbsfio
+Contributors: brainstormforce
 Tags: lightbox, theme, customize theme
 Requires at least: 3.0  
 Tested up to: 4.9.0 
